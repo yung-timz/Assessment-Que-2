@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Assesment Que 2\METHOD\Que 10\bin\Debug\net5.0\Que 10.exe
+C:\Users\USER\Desktop\Assesment Que 2\METHOD\Que 10\bin\Debug\net5.0\Que 10.deps.json
+C:\Users\USER\Desktop\Assesment Que 2\METHOD\Que 10\bin\Debug\net5.0\Que 10.runtimeconfig.json
+C:\Users\USER\Desktop\Assesment Que 2\METHOD\Que 10\bin\Debug\net5.0\Que 10.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Assesment Que 2\METHOD\Que 10\bin\Debug\net5.0\Que 10.dll
+C:\Users\USER\Desktop\Assesment Que 2\METHOD\Que 10\bin\Debug\net5.0\ref\Que 10.dll
+C:\Users\USER\Desktop\Assesment Que 2\METHOD\Que 10\bin\Debug\net5.0\Que 10.pdb
+C:\Users\USER\Desktop\Assesment Que 2\METHOD\Que 10\obj\Debug\net5.0\Que 10.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Assesment Que 2\METHOD\Que 10\obj\Debug\net5.0\Que 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Assesment Que 2\METHOD\Que 10\obj\Debug\net5.0\Que 10.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Assesment Que 2\METHOD\Que 10\obj\Debug\net5.0\Que 10.AssemblyInfo.cs
+C:\Users\USER\Desktop\Assesment Que 2\METHOD\Que 10\obj\Debug\net5.0\Que 10.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Assesment Que 2\METHOD\Que 10\obj\Debug\net5.0\Que 10.dll
+C:\Users\USER\Desktop\Assesment Que 2\METHOD\Que 10\obj\Debug\net5.0\ref\Que 10.dll
+C:\Users\USER\Desktop\Assesment Que 2\METHOD\Que 10\obj\Debug\net5.0\Que 10.pdb
+C:\Users\USER\Desktop\Assesment Que 2\METHOD\Que 10\obj\Debug\net5.0\Que 10.genruntimeconfig.cache
